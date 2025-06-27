@@ -1,0 +1,3 @@
+/Users/xiahui/Desktop/caoren/build/CMakeFiles/MySingleton.dir
+/Users/xiahui/Desktop/caoren/build/CMakeFiles/edit_cache.dir
+/Users/xiahui/Desktop/caoren/build/CMakeFiles/rebuild_cache.dir

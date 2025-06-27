@@ -1,4 +1,5 @@
-sproject(MySingletonProject)
+cmake_minimum_required(VERSION 3.10) 
+project(MySingletonProject)
 
 # 指定 C++ 标准
 set(CMAKE_CXX_STANDARD 14)
