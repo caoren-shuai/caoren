@@ -12,3 +12,6 @@ Singleton& Singleton::getInstance() {
 void Singleton::sayHi() const {
     std::cout << "Hi, 我是唯一的 Singleton 实例！" << std::endl;
 }
+void Singleton::showSomthing() const {
+    std::cout << "This is a intance" << std::endl;
+}

@@ -7,6 +7,7 @@ class Singleton {
 public:
     static Singleton& getInstance();
     void sayHi() const;
+    void showSomthing() const;
 
 private:
     Singleton();
