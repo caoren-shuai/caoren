@@ -1,0 +1,3 @@
+/Users/xiahui/Desktop/caoren/Builder_Pattern/build/CMakeFiles/abstract_factory.dir
+/Users/xiahui/Desktop/caoren/Builder_Pattern/build/CMakeFiles/edit_cache.dir
+/Users/xiahui/Desktop/caoren/Builder_Pattern/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/abstract_factory.dir/main.cpp.o CMakeFiles/abstract_factory.dir/concretBuild.cpp.o CMakeFiles/abstract_factory.dir/Director.cpp.o -o abstract_factory
